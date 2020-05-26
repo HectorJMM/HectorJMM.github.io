@@ -1,0 +1,33 @@
+p {
+    color: red;
+  }
+
+  h1 {
+      background-color: purple;
+  }
+a:link {
+    color: rebeccapurple;
+}
+.manythings{
+    font-style: italic;
+}
+#onething{
+    color: rosybrown;
+    background-image: url("https://openthread.google.cn/images/ot-contrib-google.png");
+}
+*{
+    color: royalblue;
+}
+.box p {
+    font-size: 50px;
+    font-weight: bold;
+}
+.box p:first-child{
+    background-color: saddlebrown;
+    font-weight: 500;
+}
+h1, h2, .intro{
+    background-color: seagreen;
+    width: 1000px;
+    border-style: solid;
+}
